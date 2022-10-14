@@ -18,7 +18,7 @@
 </br>
 <font size=3> MAIS:👇</font>
 
-<font face=Calibri color=#eead2d>Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por gatos e programação e procurando a primeira oportunidade para migrar no mundo da programação. Sinta-se a vontade para entrar em contato comigo.</font> 
+<font face=Calibri color=#eead2d>Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por gatos e tecnologia em busca da primeira oportunidade para migrar no mundo da programação. Sinta-se a vontade para entrar em contato comigo.</font> 
 
 <img border="4px" solid="#eead2d" width="200px" src=https://acegif.com/wp-content/uploads/cat-typing-9.gif>
 
