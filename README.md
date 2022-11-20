@@ -25,5 +25,5 @@
 <div align="center">
   <h1> <b> ⚙️ GitHub Analytics </b> </h1>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VetorMelo&layout=compact&langs_count=7&theme=vision-friendly-dark"/></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vetor&layout=compact&langs_count=7&theme=vision-friendly-dark"/></a>
 </div>
