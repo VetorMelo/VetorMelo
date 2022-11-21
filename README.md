@@ -5,7 +5,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511955984209)
 
 
-![VictorMelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=VetorMelo&show_icons=true&theme=merko)
+![VictorMelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=VetorMelo&show_icons=true&theme=moltack)
 
 ### Tecnologias que já estudei até o momento.
 
@@ -25,5 +25,5 @@
 <div align="center">
   <h1> <b> ⚙️ GitHub Analytics </b> </h1>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VetorMelo&layout=compact&langs_count=7&theme=vision-friendly-dark"/></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VetorMelo&layout=compact&langs_count=7&theme=vision-moltack"/></a>
 </div>
