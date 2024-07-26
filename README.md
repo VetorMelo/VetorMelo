@@ -9,14 +9,19 @@
 
 *_Caso queira entrar em contato comigo 👇🏼_*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victormelodesenvolvedor/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vettormelo_/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511955984209)
+<a href="https://www.linkedin.com/in/victormelodesenvolvedor/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/vettormelo_?igsh=ZTI1Mno4eGw1cG90&utm_source=qr" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+<a href="wa.me/5511955984209" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
+<a href="contatomelo2@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
 
 
 ![VictorMelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=VetorMelo&show_icons=true&theme=shadow_red )
 
-<h3>📚 Skills:</h3>
+<h3>🦄 Linguagens</h3>
 <div style="display: inline_block"><br/>
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -34,5 +39,5 @@ _Sou formado em Análise e Desenvolvimento de Sistemas e atualmente trabalho com
 <div align="center">
   <h1> <b> GitHub Analytics </b> </h1>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VetorMelo&layout=compact&langs_count=7&theme=Dark"/></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VetorMelo&layout=compact&langs_count=7&theme=shadow_red"/></a>
 </div>
