@@ -1,9 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=4000&pause=1000&color=FBFBFB&width=500&lines=Ol%C3%A1!+Seja+bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px"/>
-</p>
 
+<table>
+  <tr>
+    <td>
+      <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Welcome&animation=fadeIn&gradientColors=B993D6,8CA6DB" />
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px"/>
+    </td>
+  </tr>
+</table>
 
 
 ## 🚀 Sobre mim  
