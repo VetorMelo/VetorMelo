@@ -1,24 +1,27 @@
-
-<h1 align="center">👋🏼 Olá! Seja bem-vindo ao meu perfil! 🚀</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=4000&pause=1000&color=FBFBFB&width=500&lines=Ol%C3%A1!+Seja+bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px"/>
 </p>
 
----
 
-## 🚀 Sobre mim
 
-🎓 **Formado em Análise e Desenvolvimento de Sistemas**<br>
-💼 **Atualmente trabalhando como Desenvolvedor de Software**<br>
-💡 **Apaixonado por tecnologia, automação e banco de dados**<br>
-🐱 **Tenho uma gata chamada Tequila!**<br>
+## 🚀 Sobre mim  
 
-📌 *"Aprender algo novo todos os dias é o que me motiva!"*
+🎓 **Formado em Análise e Desenvolvimento de Sistemas**  
+💼 **Atualmente trabalhando como Desenvolvedor de Software**  
+💡 **Apaixonado por automação, banco de dados e desenvolvimento backend**  
+🐱 **Tenho uma gata chamada Tequila!**  
+📌 *"Aprender algo novo todos os dias é o que me motiva!"*  
 
----
+🚀 **Tecnologias principais:**  
+🛠️ **Backend:** TypeScript, Python, Scala, Java  
+🗄️ **Banco de Dados:** PostgreSQL, MySQL  
+🌐 **Versionamento & Infra:** Git, Linux  
 
-## 🌎 Conecte-se comigo
+
+
+## 🌎 Conecte-se comigo  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/victormelodesenvolvedor/" title="LinkedIn" target="_blank">
@@ -40,9 +43,7 @@
 
 
 
----
-
-## 🛠️ Tecnologias que uso
+## 🛠️ Tecnologias que uso  
 
 <div align="center">
     <!-- Bancos de Dados -->
@@ -88,13 +89,31 @@
 
 </div>
 
----
 
-## 📊 GitHub Analytics
+
+
+
+
+
+## 📊 GitHub Analytics  
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VetorMelo&show_icons=true&theme=shadow_red"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VetorMelo&layout=compact&langs_count=7&theme=shadow_red"/>
+
+  <!-- Status GitHub -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VetorMelo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+
+  <!-- Linguagens mais usadas (Tema neon gradiente) -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VetorMelo&layout=compact&langs_count=10&theme=chartreuse-dark&hide=css,html"/>
+
+   <!-- Gráfico de Contribuições (Tema mais dinâmico) -->
+  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=VetorMelo&theme=react&hide_border=true&area=true"/>
+
+  <!-- GitHub Streak -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=VetorMelo&theme=radical" alt="GitHub Streak"/>
+
+  <!-- Contador de visitas (interativo) -->
+  <img src="https://komarev.com/ghpvc/?username=VetorMelo&label=Visualizações&color=brightgreen&style=flat-square" alt="Contador de Visualizações"/>
+
 </div>
 
 ---
@@ -105,11 +124,9 @@
 
 🔹 [Projeto em Desenvolvimento](#) 🏗️ *(Em breve!)*
 
----
+
 
 <h3 align="center">✨ Obrigado por visitar meu perfil! ✨</h3>
 <p align="center">
   <img src="https://media.giphy.com/media/j5QcmXoFWp2Xp3ntfo/giphy.gif" width="200px"/>
 </p>
-```
-
