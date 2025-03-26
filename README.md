@@ -113,10 +113,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VetorMelo&layout=compact&langs_count=10&theme=chartreuse-dark&hide=css,html"/>
 
    <!-- Gráfico de Contribuições (Tema mais dinâmico) -->
-  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=VetorMelo&theme=react&hide_border=true&area=true"/>
-
-  <!-- GitHub Streak -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=VetorMelo&theme=radical" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=VetorMelo&theme=react&hide_border=true&area=true"/><br>
 
   <!-- Contador de visitas (interativo) -->
   <img src="https://komarev.com/ghpvc/?username=VetorMelo&label=Visualizações&color=brightgreen&style=flat-square" alt="Contador de Visualizações"/>
