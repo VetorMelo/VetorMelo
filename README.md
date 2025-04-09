@@ -15,14 +15,20 @@
 
 ## 🚀 Sobre mim  
 
-🎓 **Formado em Análise e Desenvolvimento de Sistemas**  
-💼 **Atualmente trabalhando como Desenvolvedor de Software**  
+🎓 **Formado em Análise e Desenvolvimento de Sistemas**  <br>
+💼 **Atualmente trabalhando como Desenvolvedor de Software Junior** <br>
+- Experiência corporativa no setor de Defesa e Engenharia Aeronautica.<br>
+- Gestão de Projetos, Análise de Risco, Governança de Software. <br> <br>
+- Implementação de sistema de monitoramento de software para análise e distribuição de acessos em Python.
+- Impplementação de sistema para comparação de tabelas Delta em Python.
+- Em construção Sistema de Aprovação de Documentos em Java. <br><br>
+
 💡 **Apaixonado por automação, banco de dados e desenvolvimento backend**  
-🐱 **Tenho uma gata chamada Tequila!**  
-📌 *"Aprender algo novo todos os dias é o que me motiva!"*  
+🐱 **Tenho uma gata chamada Tequila!**  <br>
+=========> 📌 *"Aprender algo novo todos os dias é o que me motiva!"*  
 
 🚀 **Tecnologias principais:**  
-🛠️ **Backend:** TypeScript, Python, Scala, Java  
+🛠️ **Backend:** Java, JVM, Spring, TypeScript, Python, Scala, Java  
 🗄️ **Banco de Dados:** PostgreSQL, MySQL  
 🌐 **Versionamento & Infra:** Git, Linux  
 
